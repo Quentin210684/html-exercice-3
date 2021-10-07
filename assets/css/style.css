@@ -1,0 +1,15 @@
+#redUnit{
+    color: #f00;
+}
+#greenUnit{
+    color: #008000;
+}
+#boldUnit{
+    font-weight: bold;
+}
+#italic{
+    font-style: italic;
+}
+h1{
+    font-variant: small-caps;
+}
